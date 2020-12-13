@@ -42,11 +42,17 @@ ________________________________________________________________________________
 
 3.4: Com essa mesma tabela, conseguimos criar uma nuvem de palavras
 _________________________________________________________________________________________________________________________________________________________________________________
+**Quarta etapa: Criação de um arquivo em PDF**
+
+4: Será criado um resumo em pdf contendo as 10 principais citações, o gráfico de barras e a nuvem de palavras
+
+4.1: Além do PDF, o algoritmo gera uma imagem em png do gráfico e outra da nuvem de palavras
+_________________________________________________________________________________________________________________________________________________________________________________
 **Etapa final: Exibição do resultado do código**
 
-4: Criamos uma função que agregará todo o código descrito acima, usando como parâmetros o nome do autor e o número de páginas a serem vasculhadas
+5: Criamos uma função que agregará todo o código descrito acima, usando como parâmetros o nome do autor e o número de páginas a serem vasculhadas
 
-4.1: A exibição aparecerá na seguinte ordem: Citações --> gráfico de barras --> nuvem de palavras
+5.1: A exibição aparecerá na seguinte ordem: Citações --> gráfico de barras --> nuvem de palavras
 
 _________________________________________________________________________________________________________________________________________________________________________________
 ## Resultados
