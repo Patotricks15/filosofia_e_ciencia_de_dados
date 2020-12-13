@@ -64,6 +64,7 @@ Usarei 4 filósofos/escritores de diferentes áreas como exemplo para verificar 
 Adam Smith (1723–1790) foi um economista e filósofo escocês.
 
 Resultado: **riqueza, universal, produção, superioridade, verdadeiro**
+
 <img src="https://miro.medium.com/max/581/1*zZ5ikoz4fm4QKUtKPYhAbQ.png" width="50%" title="Termos mais encontrados em Adam Smith">
 
 ### 2. Karl Marx
