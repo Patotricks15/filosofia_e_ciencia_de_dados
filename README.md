@@ -96,13 +96,13 @@ Resultado: **universo, ciência, evidência, ausência, estrelas**
 
 Podemos observar que o mecanismo de busca e seleção de termos funcionou de maneira legal, pois se analisarmos:
 
-Adam Smith sobre riqueza e produção: um exemplo é o livro “A riqueza das nações”, nele, o autor explora as causas dessa riqueza e o funcionamento da produção, explicando, por exemplo, a divisão do trabalho;
+**Adam Smith sobre riqueza e produção:** um exemplo é o livro “A riqueza das nações”, nele, o autor explora as causas dessa riqueza e o funcionamento da produção, explicando, por exemplo, a divisão do trabalho;
 
-Karl Marx sobre história e trabalho: no Manifesto do Partido Comunista, Karl Marx mostra que a luta de classes é o motor da história, e o trabalho como meio de exploração do homem sob o homem através dos meios de produção;
+**Karl Marx sobre história e trabalho:** no Manifesto do Partido Comunista, Karl Marx mostra que a luta de classes é o motor da história, e o trabalho como meio de exploração do homem sob o homem através dos meios de produção;
 
-Sócrates sobre ignorância e sabedoria: Sócrates não deixou livros escritos, mas Platão em “Apologia de Sócrates”, descreve os diálogos no julgamento de Sócrates. Nesse texto, encontramos falas de Sócrates contra a ignorância e a importância da sabedoria e conhecimento na sociedade;
+**Sócrates sobre ignorância e sabedoria:** Sócrates não deixou livros escritos, mas Platão em “Apologia de Sócrates”, descreve os diálogos no julgamento de Sócrates. Nesse texto, encontramos falas de Sócrates contra a ignorância e a importância da sabedoria e conhecimento na sociedade;
 
-Carl Sagan sobre universo e ciência: Carl Sagan foi um exímio divulgador científico, seus livros e entrevistas mostram a genialidade do autor e seu profundo interesse e amor pela ciência e pelo conhecimento. Uma recomendação de texto é “Um pálido ponto azul”, tirado de seu livro com o mesmo nome. O texto mostra nossa insignificância perante o tamanho do cosmo. É um texto reflexivo sobre a humanidade e a sociedade.
+**Carl Sagan sobre universo e ciência:** Carl Sagan foi um exímio divulgador científico, seus livros e entrevistas mostram a genialidade do autor e seu profundo interesse e amor pela ciência e pelo conhecimento. Uma recomendação de texto é “Um pálido ponto azul”, tirado de seu livro com o mesmo nome. O texto mostra nossa insignificância perante o tamanho do cosmo. É um texto reflexivo sobre a humanidade e a sociedade.
 
 Conhecendo esses pensadores, podemos concluir que nossa ferramenta é viável para resumir e sintetizar os pensamentos desses pensadores. Não é a ferramenta perfeita, ainda, mas em breve receberá atualizações de forma que a torne mais eficiente na busca e no resumo dos pensadores. **Até lá, bons estudos!**
 
