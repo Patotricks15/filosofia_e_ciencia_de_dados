@@ -174,5 +174,3 @@ webencodings==0.5.1
 widgetsnbextension==3.6.1
 wordcloud==1.8.1
 xdg==5
-xkit==0.0.0
-zipp==1.0.0
