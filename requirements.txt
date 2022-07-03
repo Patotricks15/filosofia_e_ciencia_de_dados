@@ -2,7 +2,6 @@ altair==4.2.0
 anyio==3.6.1
 AnyQt==0.1.0
 appdirs==1.4.4
-apt-xapian-index==0.49
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 asttokens==2.0.5
