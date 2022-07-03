@@ -71,7 +71,6 @@ lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
 lockfile==0.12.2
 lxml==4.8.0
-lz4==3.1.3+dfsg
 MarkupSafe==2.0.1
 matplotlib==3.5.1
 matplotlib-inline==0.1.3
