@@ -50,7 +50,6 @@ httplib2==0.20.2
 httpx==0.23.0
 idna==3.3
 importlib-metadata==4.6.4
-input-remapper==1.4.2
 ipykernel==6.13.0
 ipython==8.4.0
 ipython_genutils==0.2.0
