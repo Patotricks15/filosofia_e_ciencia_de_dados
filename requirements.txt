@@ -40,7 +40,6 @@ fonttools==4.29.1
 fs==2.4.12
 fuse-python==1.0.2
 future==0.18.2
-galternatives==1.0.8
 gast==0.5.2
 GDAL==3.4.1
 gitdb==4.0.9
