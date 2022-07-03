@@ -30,7 +30,6 @@ debugpy==1.6.0
 defusedxml==0.7.1
 dictdiffer==0.9.0
 distro==1.7.0
-distro-info===1.1build1
 docutils==0.18.1
 entrypoints==0.4
 et-xmlfile==1.1.0
