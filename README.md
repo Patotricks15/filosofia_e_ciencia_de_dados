@@ -10,7 +10,7 @@ A ideia principal é: **Pegar frases famosas de filósofos e escritores, mostrá
 
 Para mais informações sobre, acesse meu post no Medium: https://tinyurl.com/yxnuocdz
 
-**Link para acessar o notebook no Google Colab:** https://tinyurl.com/y4gkvds8
+**Streamlit:**
 
 ## Etapas do código
 
